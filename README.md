@@ -1,7 +1,6 @@
-# Reto1Master
-Este es el reto de la semana uno de inovaccion
-#:tw-1f4da:  REPOSITORIO DE ESTUDIO:tw-1f4da:
-> Aquí se encuentran algunos conceptos que aprendimos durante esta semna y nos ayudaran  en nuesro viaje.
+
+# REPOSITORIO DE ESTUDIO
+> Aquí se encuentran algunos conceptos que aprendimos durante esta semana que nos ayudaran  en nuesro viaje.
 ![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
 
 ------------
